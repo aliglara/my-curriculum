@@ -5,7 +5,7 @@
 line. It is intended to be used for contact details -->
 - <alilarag@mail.com>
 - (614) 440-6494
-<!-- - [aliglara @ Linkedin](https://www.linkedin.com/in/aliglara) -->
+- [aliglara @ Linkedin](https://www.linkedin.com/in/aliglara)
 - Austin, TX
 
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
@@ -16,7 +16,7 @@ Analytical mindset, having extensive experience extracting useful facts from dat
 
 <!-- You have to wrap the "left" and "right" half of these headings in spans by
 hand -->
-### <span>Process Assistant, Amazon, Austin TX</span> <span>Mar 2023 -- present</span>
+### <span>Process Assistant, Amazon, Austin, TX</span> <span>Mar 2023 -- present</span>
 
 - Streamlined the workflow established by the leading team to improve the performance of our team in a safe environment
 - Implemented the daily workflow to ensure the performance of L1-team is efficient and cost-effective in a safe environment
@@ -50,14 +50,14 @@ hand -->
 - Constructed neural network models in Python/Tensorflow to estimate theorical physical parameters required by process simulations built on Aspen Hysys to improve the application performance
 - Managed a 10-junior engineers’ team over a one-year period and coached them on using XGBoost and random forest models to optimize the feature selection, via ROC/AUC metrics, for proposed machine learning solutions
 
-## Projects
-
-### <span>Lecturer, Universidad Central of Venezuela</span> <span>Mar 2005 -- Jun 2019</span>
+### <span>Lecturer, Universidad Central of Venezuela, Venezuela</span> <span>Mar 2005 -- Jun 2019</span>
 
 - Lectured in several chemical engineering areas including thermodynamics, chemical reactor design, numerical methods, industrial process simulation, and statistical modeling.
 - Implemented a problem-solved learning experience in different subjects following the ABET guidance.
 - Coached 200+ chemical engineering undergraduates with regards to academic pathways and toward degree completion and established and provided career counseling for a network of cooperatives, internships, and externships to foster academic to industry pipeline.
 - Mentored students throughout the process, developed semesterly goals and advised on study abroad opportunities based on the double-degree program of the Politecnico di Torino, and Sapienza University of Rome (Italy), IFP School (France), IESA School of Management (Venezuela), and Florida International University (USA).
+
+<!-- ## Projects -->
 
 ## Education
 
