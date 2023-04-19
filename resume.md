@@ -41,7 +41,7 @@ hand -->
 - Processed damaged packages for repacking, hazmat, returns, and third-party contractor shipping
 - Coached Day-1 and Week-1 associates to orient them to the station layout, standards of work, and safety culture
 
-### <span>Machine Learning Advisor, MCL Control, Venezuela</span> <span>May 2017 -- Dec 2020</span>
+### <span>Machine Learning Engineer II, MCL Control, Venezuela</span> <span>May 2012 -- Sep 2019</span>
 
 <!-- Global movement of free coding clubs for young people. -->
 
@@ -49,17 +49,24 @@ hand -->
 - Managed data-driven solutions team of three researchers, identified vulnerabilities, tested solutions, established standardized workflow, and executed programs in oil/gas industry
 - Constructed neural network models in Python/Tensorflow to estimate theorical physical parameters required by process simulations built on Aspen Hysys to improve the application performance
 - Managed a 10-junior engineers’ team over a one-year period and coached them on using XGBoost and random forest models to optimize the feature selection, via ROC/AUC metrics, for proposed machine learning solutions
+- Executed more than five process simulation models per year, performing optimization studies, and preparing technical papers and presentations
+- Gathered information, identified analytical requirements, and developed data-driven based models to translate complex business needs into actionable analytic projects
+- Developed an assistive tool to perform HAZOP studies based on autoregressive models and machine learning techniques in compliance with design specifications
+- Designed and implemented machine learning models to detect problems and predict failures using deep learning techniques, primarily for turbo-compressors and turbofans
 
-### <span>Lecturer, Universidad Central of Venezuela, Venezuela</span> <span>Mar 2005 -- Jun 2019</span>
+### <span>Researcher, Universidad Central of Venezuela, Venezuela</span> <span>Mar 2005 -- Jun 2019</span>
 
-- Lectured in several chemical engineering areas including thermodynamics, chemical reactor design, numerical methods, industrial process simulation, and statistical modeling.
+- Researched chemical reaction engineering, mathematical modeling, simulation and optimization, process synthesis and design including economic assessments, process integration, and machine learning techniques for industrial process evaluation
+- Lectured in several chemical engineering areas including thermodynamics, chemical reactor design, numerical methods, industrial process simulation, and statistical modeling
 - Implemented a problem-solved learning experience in different subjects following the ABET guidance.
-- Coached 200+ chemical engineering undergraduates with regards to academic pathways and toward degree completion and established and provided career counseling for a network of cooperatives, internships, and externships to foster academic to industry pipeline.
-- Mentored students throughout the process, developed semesterly goals and advised on study abroad opportunities based on the double-degree program of the Politecnico di Torino, and Sapienza University of Rome (Italy), IFP School (France), IESA School of Management (Venezuela), and Florida International University (USA).
+- Coached 200+ chemical engineering undergraduates with regards to academic pathways and toward degree completion and established and provided career counseling for a network of cooperatives, internships, and externships to foster academic to industry pipeline
+- Mentored students throughout the process, developed semesterly goals and advised on study abroad opportunities based on the double-degree program of the Politecnico di Torino, and Sapienza University of Rome (Italy), IFP School (France), IESA School of Management (Venezuela), and Florida International University (USA)
 
 <!-- ## Projects -->
 
 ## Education
+
+### <span>DataCamp.com, Python for Data Scientist</span> <span>2017</span>
 
 ### <span>Universidad Central of Venezuela, M.Sc. Chemical Engineering</span> <span>2005 -- 2008</span>
 
