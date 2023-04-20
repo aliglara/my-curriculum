@@ -8,6 +8,7 @@ line. It is intended to be used for contact details -->
 - [aliglara @ Linkedin](https://www.linkedin.com/in/aliglara)
 - Austin, TX
 
+## Summary
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
 Analytical mindset, having extensive experience extracting useful facts from data. Enjoy open-ended issues and the application of developing technologies to challenging cases in various sectors. Good communicator with an optimistic outlook and a desire to solve problems
@@ -54,7 +55,7 @@ hand -->
 - Developed an assistive tool to perform HAZOP studies based on autoregressive models and machine learning techniques in compliance with design specifications
 - Designed and implemented machine learning models to detect problems and predict failures using deep learning techniques, primarily for turbo-compressors and turbofans
 
-### <span>Researcher, Universidad Central of Venezuela, Venezuela</span> <span>Mar 2005 -- Jun 2019</span>
+### <span>Researcher, Universidad Central of Venezuela, Venezuela</span> <span>Mar 2005 -- Nov 2020</span>
 
 - Researched chemical reaction engineering, mathematical modeling, simulation and optimization, process synthesis and design including economic assessments, process integration, and machine learning techniques for industrial process evaluation
 - Lectured in several chemical engineering areas including thermodynamics, chemical reactor design, numerical methods, industrial process simulation, and statistical modeling
@@ -62,7 +63,15 @@ hand -->
 - Coached 200+ chemical engineering undergraduates with regards to academic pathways and toward degree completion and established and provided career counseling for a network of cooperatives, internships, and externships to foster academic to industry pipeline
 - Mentored students throughout the process, developed semesterly goals and advised on study abroad opportunities based on the double-degree program of the Politecnico di Torino, and Sapienza University of Rome (Italy), IFP School (France), IESA School of Management (Venezuela), and Florida International University (USA)
 
-<!-- ## Projects -->
+## Projects
+
+### <span>Miss Direction</span> <span>Aug 2016</span>
+
+A mapping engine that misguides you:
+
+- Won award at AIHacks 2016
+- Built by all women team of newbie programmers
+- Using modern technologies such as GoogleMaps, Chrome Extension and Javascript
 
 ## Education
 
