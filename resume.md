@@ -11,7 +11,7 @@ line. It is intended to be used for contact details -->
 ## Summary
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
-Analytical mindset, having extensive experience extracting useful facts from data. Enjoy open-ended issues and the application of developing technologies to challenging cases in various sectors. Good communicator with an optimistic outlook and a desire to solve problems
+Analytical mindset, having extensive experience extracting useful facts from data. Enjoy open-ended issues and the application of developing technologies to challenging cases in various sectors. Good communicator with an optimistic outlook and a desire to solve problems.
 
 ## Experience
 
@@ -19,12 +19,12 @@ Analytical mindset, having extensive experience extracting useful facts from dat
 hand -->
 ### <span>Process Assistant, Amazon, Austin, TX</span> <span>Mar 2023 -- present</span>
 
-- Streamlined the workflow established by the leading team to improve the performance of our team in a safe environment
-- Implemented the daily workflow to ensure the performance of L1-team is efficient and cost-effective in a safe environment
-- Led a 35-member team aimed at developing an effective inbound system for 70k+ packages daily
-- Employ quantitative analytical real-time tools to monitor the manufacturing process
-- Performed continuous evaluation of work methods, procedures, and policies and made recommendations for improvements to the leadership team
-
+- Coordinated a 35-member team aimed at developing an effective inbound workflow for processing 70k+ packages daily
+- Streamlined the implemented workflow to reduce setup and processing time in a safe environment
+- Tailored T1-employee team required to meet business goals daily.
+- Adapted team resources based on statistical real-time manufacturing metrics
+- Collaborated with leadership team in performing continuous evaluation of work methods, procedures, and policies
+- 
 ### <span>Yard Marshal, Amazon, Columbus, OH</span> <span>Dec 2021 -- Mar 2023</span>
 
 - Daily construction and maintenance of an inbound/outbound workflow to ensure a continuous site operation
