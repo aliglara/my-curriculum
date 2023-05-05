@@ -21,7 +21,7 @@ hand -->
 
 - Supervised a 35-member team aimed at developing an effective inbound workflow for processing 70k+ packages daily
 - Streamlined the implemented workflow to reduce setup and processing time in a safe environment
-- Tailored T1-employee team required to meet business goals daily.
+- Assessed and developed production and labor plans
 - Adapted team resources based on statistical real-time manufacturing metrics
 - Collaborated with leadership team in performing continuous evaluation of work methods, procedures, and policies
 - Tracked performance and supports any identified retraining opportunities for T1-associates
