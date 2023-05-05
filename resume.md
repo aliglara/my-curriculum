@@ -19,28 +19,31 @@ Analytical mindset, having extensive experience extracting useful facts from dat
 hand -->
 ### <span>Process Assistant, Amazon, Austin, TX</span> <span>Mar 2023 -- present</span>
 
-- Coordinated a 35-member team aimed at developing an effective inbound workflow for processing 70k+ packages daily
+- Supervised a 35-member team aimed at developing an effective inbound workflow for processing 70k+ packages daily
 - Streamlined the implemented workflow to reduce setup and processing time in a safe environment
 - Tailored T1-employee team required to meet business goals daily.
 - Adapted team resources based on statistical real-time manufacturing metrics
 - Collaborated with leadership team in performing continuous evaluation of work methods, procedures, and policies
-- 
+- Tracked performance and supports any identified retraining opportunities for T1-associates
+
 ### <span>Yard Marshal, Amazon, Columbus, OH</span> <span>Dec 2021 -- Mar 2023</span>
 
-- Daily construction and maintenance of an inbound/outbound workflow to ensure a continuous site operation
-- Led a 10-member team aimed at developing efficient loading/unloading system for 40k+ of packages daily
-- Communicated with both dispatches and inbound/outbound drivers to ensure on-time arrivals and departures
-- Analytically managed physical and virtual check-in procedures for an average of 15 linehauls to guarantee they could be unloaded safely and escalated any safety concerns to management
-- Conducted daily audits on the dock to assure strict adherence to Amazon procedures as well as local and DOT safety regulations
-- Maintained and updated electronic and hard copy records of inbound and outbound deliveries in real-time
+- Coordinated with carriers to ensure timely and accurate delivery of goods to customers
+- Handled dispatching duties and managed shipment tracking
+- Maintained digital records of 20+ inbound and outbound linehauls on a daily basis
+- Assisted in carrier contract negotiations and compliance
+- Monitored Key Performance Indicators (KPIs) and reported results to management
+- Authored an Excel-based tracking tool to reduce process defects in 75%
+- Partnered a 15-member team aimed at developing efficient loading/unloading system for 40k+ of packages daily
+- Monitored adherence to the established training programs to ensure standard work under a safe enviroment
 
 ### <span>FC Associate, Amazon, Columbus, OH</span> <span>Nov 2020 -- Dec 2021</span>
 
-- Increased the average rate from under 200 units per hour by 40% or greater by coaching under-performing associates daily to meet production goals and exceeded standards
-- Exceed over 379 expected UPH, while the building average stow rate was 250, 500+ was reached which represents being at the 95th percentile
-- Processed hazardous materials following all federal and local EPA/RCRA standards for handling, classifying and shipping hazardous waste
-- Processed damaged packages for repacking, hazmat, returns, and third-party contractor shipping
-- Coached Day-1 and Week-1 associates to orient them to the station layout, standards of work, and safety culture
+- Seeked ongoing skill development on under-performing associates to meet production goals
+- Outperfomed KPIs designed for tracking T1-associates performance: 379 UPH, 500+ average stow rate which represented being at the 95th percentile
+- Classified hazardous residues following federal and local EPA/RCRA standards for handling, disposal or shipping
+- Used technical knowledge to troubleshoot any issues related to damaged packages, processing hazmats, returns, and third-party contractor shipping
+- Assisted to learning coordinator for coaching Day-1 and Week-1 associates in standards of work, and safety culture
 
 ### <span>Machine Learning Engineer II, MCL Control, Venezuela</span> <span>May 2012 -- Sep 2019</span>
 
