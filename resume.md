@@ -40,7 +40,7 @@ hand -->
 ### <span>FC Associate, Amazon, Columbus, OH</span> <span>Nov 2020 -- Dec 2021</span>
 
 - Seeked ongoing skill development on under-performing associates to meet production goals
-- Outperfomed KPIs designed for tracking T1-associates performance: 379 UPH, 500+ average stow rate which represented being at the 95th percentile
+- Outperformed KPIs designed for tracking T1-associates performance: 379 UPH, 500+ average stow rate which represented being at the 95th percentile
 - Classified hazardous residues following federal and local EPA/RCRA standards for handling, disposal or shipping
 - Used technical knowledge to troubleshoot any issues related to damaged packages, processing hazmats, returns, and third-party contractor shipping
 - Assisted to learning coordinator for coaching Day-1 and Week-1 associates in standards of work, and safety culture
@@ -49,22 +49,18 @@ hand -->
 
 <!-- Global movement of free coding clubs for young people. -->
 
-- Served as Team Leader from design to execution of machine learning algorithms to develop predictive models and optimize the performance of advanced control process algorithms for rotary industrial machinery
-- Managed data-driven solutions team of three researchers, identified vulnerabilities, tested solutions, established standardized workflow, and executed programs in oil/gas industry
-- Constructed neural network models in Python/Tensorflow to estimate theorical physical parameters required by process simulations built on Aspen Hysys to improve the application performance
-- Managed a 10-junior engineers’ team over a one-year period and coached them on using XGBoost and random forest models to optimize the feature selection, via ROC/AUC metrics, for proposed machine learning solutions
-- Executed more than five process simulation models per year, performing optimization studies, and preparing technical papers and presentations
+- Shaped machine learning algorithms to develop predictive models and optimize the performance of advanced control algorithms for industrial processes
+- Assisted researchers team in engineering a standard workflow for implementing non-parametric statistical models in oil/gas processes
+- Engineered neural network models in Python/Tensorflow to estimate physical parameters required by process simulations to improve the application performance
+- Mentored 10+ junior engineers over a one-year period on using XGBoost and random forest models to optimize the feature selection for machine learning projects
 - Gathered information, identified analytical requirements, and developed data-driven based models to translate complex business needs into actionable analytic projects
-- Developed an assistive tool to perform HAZOP studies based on autoregressive models and machine learning techniques in compliance with design specifications
-- Designed and implemented machine learning models to detect problems and predict failures using deep learning techniques, primarily for turbo-compressors and turbofans
 
 ### <span>Researcher, Universidad Central of Venezuela, Venezuela</span> <span>Mar 2005 -- Nov 2020</span>
 
 - Researched chemical reaction engineering, mathematical modeling, simulation and optimization, process synthesis and design including economic assessments, process integration, and machine learning techniques for industrial process evaluation
 - Lectured in several chemical engineering areas including thermodynamics, chemical reactor design, numerical methods, industrial process simulation, and statistical modeling
-- Implemented a problem-solved learning experience in different subjects following the ABET guidance.
+- Proposed a problem-solved learning experience in different subjects following the ABET guidance.
 - Coached 200+ chemical engineering undergraduates with regards to academic pathways and toward degree completion and established and provided career counseling for a network of cooperatives, internships, and externships to foster academic to industry pipeline
-- Mentored students throughout the process, developed semesterly goals and advised on study abroad opportunities based on the double-degree program of the Politecnico di Torino, and Sapienza University of Rome (Italy), IFP School (France), IESA School of Management (Venezuela), and Florida International University (USA)
 
 ## Projects
 
@@ -72,9 +68,8 @@ hand -->
 
 A mapping engine that misguides you:
 
-- Won award at AIHacks 2016
-- Built by all women team of newbie programmers
-- Using modern technologies such as GoogleMaps, Chrome Extension and Javascript
+- Developed an assistive tool to perform HAZOP studies based on autoregressive models and machine learning techniques in compliance with design specifications
+- Designed and implemented machine learning models to detect problems and predict failures using deep learning techniques, primarily for turbo-compressors and turbofans
 
 ## Education
 
