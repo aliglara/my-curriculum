@@ -11,7 +11,7 @@ line. It is intended to be used for contact details -->
 ## Summary
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
-Analytical mindset, having extensive experience extracting useful facts from data. Enjoy open-ended issues and the application of developing technologies to challenging cases in various sectors—good communicator with an optimistic outlook and a desire to solve problems.
+With my extensive experience in extracting valuable insights from data in both academic and industrial settings, I am a highly skilled professional who excels in fast-paced environments. I confidently utilize my expertise to solve real manufacturing problems through data analysis, always delivering exceptional results. As an adept self-learner and coach, I am committed to enabling team success in all of my endeavors, and I am always striving to push myself to greater heights of achievement.
 
 ## Experience
 
