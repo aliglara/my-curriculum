@@ -75,9 +75,9 @@ hand -->
 
 ### <span>DataCamp.com, Python for Data Scientist</span> <span>2017</span>
 
-### <span>Universidad Central of Venezuela, M.Sc. Chemical Engineering</span> <span>2005 -- 2008</span>
+### <span>Universidad Central of Venezuela, M.Sc. Chemical Engineering</span>
 
-### <span>Universidad Central of Venezuela, B.Sc. Chemical Engineering</span> <span>1990 -- 1998</span>
+### <span>Universidad Central of Venezuela, B.Sc. Chemical Engineering</span>
 
 <!-- - GPA 4.0
   - DB1101 - Basic SQL
