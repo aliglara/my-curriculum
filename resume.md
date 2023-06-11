@@ -71,9 +71,9 @@ hand -->
 
 ## Education
 
-### <span>Correlation One - Amazon, Data Analytics BootCamp</span> <span>2022</span>
+### <span>Correlation One - Amazon, Data Analytics BootCamp</span>
 
-### <span>DataCamp.com, Python for Data Scientist</span> <span>2017</span>
+### <span>DataCamp.com, Python for Data Scientist</span>
 
 ### <span>Universidad Central of Venezuela, M.Sc. Chemical Engineering</span>
 
