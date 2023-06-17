@@ -11,13 +11,14 @@ line. It is intended to be used for contact details -->
 ## Summary
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
-Accomplished Process Engineer with a robust background in Amazon operations management and research. Expert in process modeling, statistical modeling, and machine learning, leveraging tools such as Matlab, Hysys, and Python. Proven leader in optimizing workflows and enhancing productivity through data-driven decision-making. Bilingual in English and Spanish, with a strong commitment to continuous learning, diversity, and inclusivity. Demonstrates adaptability and conflict resolution skills, fostering a harmonious and productive work environment
+Accomplished Chemical Engineer with a robust background in operations management and research. Expert in process modeling, statistical modeling, and machine learning, leveraging tools such as Matlab, Hysys, and Python. Proven leader in optimizing workflows and enhancing productivity through data-driven decision-making. Bilingual in English and Spanish, with a strong commitment to continuous learning, diversity, and inclusivity. Demonstrates adaptability and conflict resolution skills, fostering a harmonious and productive work environment
 
 ## Skills
 
-- Process modeling: Statistical modeling, Matlab, Hysys
-- Data Analysis: Excel, SQL, NoSQL, Tableau
-- Machine learning: Python, R, TensorFlow
+- Process engineering: Statistical modeling, Mathematical modeling, Matlab, Hysys
+- Machine learning: Python, Pandas, Keras, Scikit-Learn, TensorFlow, timeseries datasets.
+- Skilled in interpreting and applying insights from scientific papers to develop innovative, data-driven solutions
+- Management skills: Team leadership, strategic planning, performance monitoring
 
 ## Experience
 
@@ -87,4 +88,3 @@ hand -->
 <!-- - GPA 4.0
   - DB1101 - Basic SQL
   - CS2011 - Java Introduction -->
-
