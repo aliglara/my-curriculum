@@ -39,7 +39,7 @@ hand -->
 - Outperformed KPIs designed for tracking T1-associates performance: 379 UPH, 500+ average stow rate, which represented being at the 95th percentile
 - Classified hazardous residues following federal and local EPA/RCRA standards for handling, disposal, or shipping
 - Used technical knowledge to troubleshoot any issues related to damaged packages, processing hazmats, returns, and third-party contractor shipping
-- Assisted to learning coordinator in coaching Day-1 and Week-1 associates in standards of work and safety culture
+- Coached Day-1 and Week-1 associates in standards of work and safety culture
 
 ### <span>Chemical Engineer, MCL Control (Venezuela)</span> <span>May 2012 -- Sep 2019</span>
 
