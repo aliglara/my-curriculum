@@ -17,16 +17,15 @@ With my extensive experience in extracting valuable insights from data in both a
 
 <!-- You have to wrap the "left" and "right" half of these headings in spans by
 hand -->
-### <span>Process Assistant, Amazon, Austin, TX</span> <span>Mar 2023 -- present</span>
+### <span>Associate Area Manager, Amazon (Austin, TX)</span> <span>Mar 2023 -- present</span>
 
-- Supervised a 35-member team aimed at developing an effective inbound workflow for processing 70k+ packages daily
-- Streamlined the implemented workflow to reduce setup and processing time in a safe environment
-- Assessed and developed production and labor plans
-- Adapted team resources based on statistical real-time manufacturing metrics
-- Collaborated with the leadership team in performing a continuous evaluation of work methods, procedures, and policies
-- Tracked performance and supported any identified retraining opportunities for T1-associates
+- Spearheaded a team of 75, devising an efficient inbound workflow that successfully processed over 70,000 packages daily
+- Optimized workflow processes, significantly reducing setup and processing time while prioritizing safety
+- Strategically assessed labor plans to meet operational goals
+- Leveraged real-time manufacturing metrics to adapt team resources effectively, enhancing productivity in 20%
+- Monitored performance metrics and proactively identified retraining opportunities for T1-associates, fostering a culture of continuous learning
 
-### <span>Yard Marshal, Amazon, Columbus, OH</span> <span>Dec 2021 -- Mar 2023</span>
+### <span>Yard Marshal, Amazon (Columbus, OH)</span> <span>Dec 2021 -- Mar 2023</span>
 
 - Coordinated with carriers to ensure timely and accurate delivery of goods to customers
 - Handled dispatching duties and managed shipment tracking
@@ -37,7 +36,7 @@ hand -->
 - Partnered with a 15-member team aimed at developing an efficient loading/unloading system for 40k+ packages daily
 - Monitored adherence to the established training programs to ensure standard work in a safe environment
 
-### <span>FC Associate, Amazon, Columbus, OH</span> <span>Nov 2020 -- Dec 2021</span>
+### <span>FC Associate, Amazon (Columbus, OH)</span> <span>Nov 2020 -- Dec 2021</span>
 
 - Sought ongoing skill development on under-performing associates to meet production goals
 - Outperformed KPIs designed for tracking T1-associates performance: 379 UPH, 500+ average stow rate, which represented being at the 95th percentile
@@ -45,11 +44,11 @@ hand -->
 - Used technical knowledge to troubleshoot any issues related to damaged packages, processing hazmats, returns, and third-party contractor shipping
 - Assisted to learning coordinator in coaching Day-1 and Week-1 associates in standards of work and safety culture
 
-### <span>Machine Learning Engineer II, MCL Control, Venezuela</span> <span>May 2012 -- Sep 2019</span>
+### <span>Chemical Engineer, MCL Control (Venezuela)</span> <span>May 2012 -- Sep 2019</span>
 
 <!-- Global movement of free coding clubs for young people. -->
-
-- Shaped machine learning algorithms to develop predictive models and optimize the performance of advanced control algorithms for industrial processes
+- Engineering support for creating mathematical models and simulating gas/oil processess using commercial process simulators
+- Shaped machine learning algorithms to develop predictive models and optimize the performance of advanced control algorithms for gas/oil processes
 - Assisted researchers team in engineering a standard workflow for implementing non-parametric statistical models in oil/gas processes
 - Engineered neural network models in Python/Tensorflow to estimate physical parameters required by process simulations to improve the application performance
 - Mentored 10+ junior engineers over one year on using XGBoost and random forest models to optimize the feature selection for machine learning projects
@@ -65,7 +64,10 @@ hand -->
 ## Projects
 
 - Design of an industrial plant for solar hydrogen production by water splitting - 2020
-- Develop a semi-automatic tool for HAZOP nodes detection from industrial process P&IDs - 2020
+  - Led a research project on sustainable energy solutions using concentrated solar thermal energy to produce hydrogen.
+  - Compared different hydrogen production technologies, overcoming data limitations, and demonstrating knowledge of the latest developments in the field.
+  - Used mathematical modeling and simulation to optimize the plant's electric power production, resulting in the selection of alkaline electrolysis as the most efficient technology and contributing to its commercialization.
+- Develop a semi-automatic tool for HAZOP nodes detection from industrial process P&IDs - 2021
 - An assistive tool to perform HAZOP studies based on autoregressive models and machine learning techniques in compliance with design specifications - 2020
 - Prediction of turbo-compressors performance degradation using deep learning techniques - 2019
 
