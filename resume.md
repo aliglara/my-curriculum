@@ -19,6 +19,7 @@ Accomplished Chemical Engineer with a robust background in operations management
 - Machine learning: Python, Pandas, Keras, Scikit-Learn, TensorFlow, timeseries datasets.
 - Skilled in interpreting and applying insights from scientific papers to develop innovative, data-driven solutions
 - Management skills: Team leadership, strategic planning, performance monitoring
+- Bilingual in English and Spanish
 
 ## Experience
 
