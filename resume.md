@@ -8,6 +8,12 @@ line. It is intended to be used for contact details -->
 - [aliglara @ Linkedin](https://www.linkedin.com/in/aliglara)
 - Austin, TX
 
+## Skills
+
+- Process modeling: Statistical modeling, Matlab, Hysys
+- Data Analysis: Excel, SQL, NoSQL, Tableau
+- Machine learning: Python, R, TensorFlow
+  
 ## Summary
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
@@ -82,8 +88,3 @@ hand -->
   - DB1101 - Basic SQL
   - CS2011 - Java Introduction -->
 
-## Skills
-
-- Process modeling: Statistical modeling, Matlab, Hysys
-- Data Analysis: Excel, SQL, NoSQL, Tableau
-- Machine learning: Python, R, TensorFlow
