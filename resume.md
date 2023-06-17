@@ -27,14 +27,11 @@ hand -->
 
 ### <span>Yard Marshal, Amazon (Columbus, OH)</span> <span>Dec 2021 -- Mar 2023</span>
 
-- Coordinated with carriers to ensure timely and accurate delivery of goods to customers
-- Handled dispatching duties and managed shipment tracking
-- Maintained digital records of 20+ inbound and outbound line hauls daily
-- Assisted in carrier contract negotiations and compliance
-- Monitored Key Performance Indicators (KPIs) and reported results to management
-- Authored an Excel-based tracking tool to reduce process defects by 75%
-- Partnered with a 15-member team aimed at developing an efficient loading/unloading system for 40k+ packages daily
-- Monitored adherence to the established training programs to ensure standard work in a safe environment
+- Led a 15-member team to develop an efficient loading/unloading system, successfully handling over 40,000 packages daily
+- Built an Excel-based tracking tool, dramatically reducing process defects by 75%
+- Strategically prioritized commercially crucial deliveries, optimizing business operations
+- Ensured comprehensive safety measures for docks, trailers, and delivery vehicles, promoting a secure work environment
+- Upheld the accuracy and integrity of the station trailer yard, ensuring efficient logistics operations
 
 ### <span>FC Associate, Amazon (Columbus, OH)</span> <span>Nov 2020 -- Dec 2021</span>
 
