@@ -8,16 +8,16 @@ line. It is intended to be used for contact details -->
 - [aliglara @ Linkedin](https://www.linkedin.com/in/aliglara)
 - Austin, TX
 
+## Summary
+<!-- The paragraph after the h1 and ul and before the first h2 is optional. It
+is intended to be used for a short summary. -->
+Accomplished Process Engineer with a robust background in Amazon operations management and research. Expert in process modeling, statistical modeling, and machine learning, leveraging tools such as Matlab, Hysys, and Python. Proven leader in optimizing workflows and enhancing productivity through data-driven decision-making. Bilingual in English and Spanish, with a strong commitment to continuous learning, diversity, and inclusivity. Demonstrates adaptability and conflict resolution skills, fostering a harmonious and productive work environment
+
 ## Skills
 
 - Process modeling: Statistical modeling, Matlab, Hysys
 - Data Analysis: Excel, SQL, NoSQL, Tableau
 - Machine learning: Python, R, TensorFlow
-  
-## Summary
-<!-- The paragraph after the h1 and ul and before the first h2 is optional. It
-is intended to be used for a short summary. -->
-With my extensive experience in extracting valuable insights from data in both academic and industrial settings, I am a highly skilled professional who excels in fast-paced environments. I confidently utilize my expertise to solve real manufacturing problems through data analysis, always delivering exceptional results. As an adept self-learner and coach, I am committed to enabling team success in all of my endeavors, and I am always striving to push myself to greater heights of achievement.
 
 ## Experience
 
