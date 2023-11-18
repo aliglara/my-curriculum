@@ -28,10 +28,10 @@ hand -->
 ### <span>Associate Area Manager, Amazon (Austin, TX)</span> <span>Mar 2023 -- present</span>
 
 - Spearheaded a team of 75, devising an efficient inbound workflow that successfully processed over 70,000 packages daily
-- Optimized workflow processes, significantly reducing setup and processing time while prioritizing safety
-- Strategically assessed labor plans to meet operational goals
+- Developed Python tools for automated data extraction, reducing operational task time by 30% and enhancing decision-making efficiency
+- Implemented a random forest model for package distribution, reducing ADTA-related errors by 20% and non-productive time by 25%.
 - Leveraged real-time manufacturing metrics to adapt team resources effectively, enhancing productivity in 20%
-- Monitored performance metrics and proactively identified retraining opportunities for T1-associates, fostering a culture of continuous learning
+- Enhanced T1 personnel support during peak times, resulting in a 10% improvement in operational consistency and a significant increase in workplace safety.
 
 ### <span>Yard Marshal, Amazon (Columbus, OH)</span> <span>Dec 2021 -- Mar 2023</span>
 
