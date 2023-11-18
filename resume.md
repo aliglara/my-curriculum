@@ -16,8 +16,8 @@ Accomplished Chemical Engineer with a robust background in operations management
 ## Skills
 
 - Process engineering: Statistical modeling, Mathematical modeling, Matlab, Hysys
-- Machine learning: Python, Pandas, Keras, Scikit-Learn, TensorFlow, timeseries datasets.
-- Skilled in interpreting and applying insights from scientific papers to develop innovative, data-driven solutions
+- Machine learning: Python, Pandas, Keras, Scikit-Learn, TensorFlow, time-series datasets.
+<!-- - Skilled in interpreting and applying insights from scientific papers to develop innovative, data-driven solutions -->
 - Management skills: Team leadership, strategic planning, performance monitoring
 - Bilingual in English and Spanish
 
@@ -52,22 +52,22 @@ hand -->
 ### <span>Chemical Engineer, MCL Control (Venezuela)</span> <span>May 2012 -- Sep 2019</span>
 
 <!-- Global movement of free coding clubs for young people. -->
-- Engineering support for creating mathematical models and simulating gas/oil processess using commercial process simulators
+- Engineering support for creating mathematical models and simulating gas/oil processes using commercial process simulators
 - Shaped machine learning algorithms to develop predictive models and optimize the performance of advanced control algorithms for gas/oil processes
 - Assisted researchers team in engineering a standard workflow for implementing non-parametric statistical models in oil/gas processes
 - Engineered neural network models in Python/Tensorflow to estimate physical parameters required by process simulations to improve the application performance
 - Mentored 10+ junior engineers over one year on using XGBoost and random forest models to optimize the feature selection for machine learning projects
 - Gathered information, identified analytical requirements, and developed data-driven based models to translate complex business needs into actionable analytic projects
 
-### <span>Researcher, Universidad Central of Venezuela, Venezuela</span> <span>Mar 2005 -- Nov 2020</span>
+### <span>Lecturer, Universidad Central of Venezuela, Venezuela</span> <span>Mar 2005 -- Nov 2020</span>
 
-- Researched chemical reaction engineering, mathematical modeling, simulation and optimization, process synthesis and design, including economic assessments, process integration, and machine learning techniques for industrial process evaluation
+- Researched chemical reaction engineering, mathematical modeling, simulation and optimization, process synthesis and design using machine learning techniques for industrial process evaluation
 - Lectured in several chemical engineering areas, including thermodynamics, chemical reactor design, numerical methods, industrial process simulation, and statistical modeling
 - Proposed a problem-solved learning experience in different subjects following the ABET guidance.
 - Coached 200+ chemical engineering undergraduates with regards to academic pathways and toward degree completion and established and provided career counseling for a network of cooperatives, internships, and externships to foster academic to-industry pipeline
 
 ## Projects
-
+- Developed Python-based automation tools tailored for logistics processes, enhancing management of production performance metrics. Conducted in-depth analysis to identify and resolve bottlenecks and faults, leading to optimized operational standards and workflow efficiency in logistics operations - 2023
 - Design of an industrial plant for solar hydrogen production by water splitting - 2020
   - Led a research project on sustainable energy solutions using concentrated solar thermal energy to produce hydrogen.
   - Compared different hydrogen production technologies, overcoming data limitations, and demonstrating knowledge of the latest developments in the field.
@@ -78,13 +78,9 @@ hand -->
 
 ## Education
 
-### <span>Correlation One - Amazon, Data Analytics BootCamp</span>
+### <span>Universidad Central of Venezuela, M.Sc. Chemical Engineering - 2008</span>
 
-### <span>DataCamp.com, Python for Data Scientist</span>
-
-### <span>Universidad Central of Venezuela, M.Sc. Chemical Engineering</span>
-
-### <span>Universidad Central of Venezuela, B.Sc. Chemical Engineering</span>
+### <span>Universidad Central of Venezuela, B.Sc. Chemical Engineering - 1998</span>
 
 <!-- - GPA 4.0
   - DB1101 - Basic SQL
