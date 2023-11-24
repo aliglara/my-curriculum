@@ -25,29 +25,26 @@ Accomplished Chemical Engineer with a robust background in operations management
 
 <!-- You have to wrap the "left" and "right" half of these headings in spans by
 hand -->
-### <span>Associate Area Manager, Amazon (Austin, TX)</span> <span>Mar 2023 -- present</span>
+### <span>Amazon Logistics (Austin, TX)</span> <span>Nov 2020 -- present</span>
 
-- Spearheaded a team of 75, devising an efficient inbound workflow that successfully processed over 70,000 packages daily
-- Developed Python tools for automated data extraction, reducing operational task time by 30% and enhancing decision-making efficiency
-- Implemented a random forest model for package distribution, reducing ADTA-related errors by 20% and non-productive time by 25%.
-- Leveraged real-time manufacturing metrics to adapt team resources effectively, enhancing productivity in 20%
-- Enhanced T1 personnel support during peak times, resulting in a 10% improvement in operational consistency and a significant increase in workplace safety.
+Roles: Associate Area Manager (Mar 2023 - Present), Yard Marshal (Dec 2021 - Mar 2023), FC Associate (Nov 2020 - Dec 2021)
 
-### <span>Yard Marshal, Amazon (Columbus, OH)</span> <span>Dec 2021 -- Mar 2023</span>
+- **Rapid Career Advancement**: Demonstrated exceptional performance and leadership, progressing quickly through increasingly responsible roles within Amazon’s logistics operations.
 
-- Led a 15-member team to develop an efficient loading/unloading system, successfully handling over 40,000 packages daily
-- Built an Excel-based tracking tool, dramatically reducing process defects by 75%
-- Strategically prioritized commercially crucial deliveries, optimizing business operations
-- Ensured comprehensive safety measures for docks, trailers, and delivery vehicles, promoting a secure work environment
-- Upheld the accuracy and integrity of the station trailer yard, ensuring efficient logistics operations
+- **Operational Efficiency and Team Leadership**:
 
-### <span>FC Associate, Amazon (Columbus, OH)</span> <span>Nov 2020 -- Dec 2021</span>
+  - Led diverse teams (up to 75 members) in high-pressure environments, processing up to 100,000 packages daily. Managed all aspects of inbound workflow, loading/unloading systems, and yard management.
+  - Enhanced operational efficiency and productivity through strategic planning and resource allocation, resulting in significant improvements in processing rates and safety standards.
 
-- Sought ongoing skill development on under-performing associates to meet production goals
-- Outperformed KPIs designed for tracking T1-associates performance: 379 UPH, 500+ average stow rate, which represented being at the 95th percentile
-- Classified hazardous residues following federal and local EPA/RCRA standards for handling, disposal, or shipping
-- Used technical knowledge to troubleshoot any issues related to damaged packages, processing hazmats, returns, and third-party contractor shipping
-- Coached Day-1 and Week-1 associates in standards of work and safety culture
+- **Data-Driven Process Improvements**:
+
+  - Developed and implemented Python-based data analysis tools, automating key operational tasks and supporting data-driven decision-making.
+  - Created and utilized predictive models and Excel-based tracking tools to optimize package distribution and reduce process defects by 75%.
+  - Implemented a random forest model for package distribution, reducing ADTA-related errors by 20% and non-productive time by 25%.
+
+- **Training and Development**:
+
+  - Coached and mentored associates on performance standards, safety protocols, and operational best practices, contributing to a culture of continuous improvement and learning
 
 ### <span>Chemical Engineer, MCL Control (Venezuela)</span> <span>May 2012 -- Sep 2019</span>
 
