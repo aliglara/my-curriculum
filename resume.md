@@ -25,7 +25,7 @@ Accomplished Chemical Engineer with a robust background in operations management
 
 <!-- You have to wrap the "left" and "right" half of these headings in spans by
 hand -->
-### <span>Amazon Logistics (Austin, TX)</span> <span>Nov 2020 -- present</span>
+### <span>Amazon Logistics (Austin, TX)</span> <span>Nov 2020 - present</span>
 
 Roles: Associate Area Manager (Mar 2023 - Present), Yard Marshal (Dec 2021 - Mar 2023), FC Associate (Nov 2020 - Dec 2021)
 
@@ -46,7 +46,7 @@ Roles: Associate Area Manager (Mar 2023 - Present), Yard Marshal (Dec 2021 - Mar
 
   - Coached and mentored associates on performance standards, safety protocols, and operational best practices, contributing to a culture of continuous improvement and learning
 
-### <span>Chemical Engineer, MCL Control (Venezuela)</span> <span>May 2012 -- Sep 2019</span>
+### <span>Chemical Engineer, MCL Control (Venezuela)</span> <span>May 2012 - Sep 2019</span>
 
 <!-- Global movement of free coding clubs for young people. -->
 - Engineering support for creating mathematical models and simulating gas/oil processes using commercial process simulators
@@ -56,7 +56,7 @@ Roles: Associate Area Manager (Mar 2023 - Present), Yard Marshal (Dec 2021 - Mar
 - Mentored 10+ junior engineers over one year on using XGBoost and random forest models to optimize the feature selection for machine learning projects
 - Gathered information, identified analytical requirements, and developed data-driven based models to translate complex business needs into actionable analytic projects
 
-### <span>Lecturer, Universidad Central of Venezuela, Venezuela</span> <span>Mar 2005 -- Nov 2020</span>
+### <span>Lecturer, Universidad Central of Venezuela, Venezuela</span> <span>Mar 2005 - Nov 2020</span>
 
 - Researched chemical reaction engineering, mathematical modeling, simulation and optimization, process synthesis and design using machine learning techniques for industrial process evaluation
 - Lectured in several chemical engineering areas, including thermodynamics, chemical reactor design, numerical methods, industrial process simulation, and statistical modeling
