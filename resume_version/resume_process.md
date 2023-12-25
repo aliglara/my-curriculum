@@ -32,7 +32,7 @@ Roles: Associate Area Manager (Mar 2023 - Present), Yard Marshal (Dec 2021 - Mar
 
 - **Operational Efficiency and Team Leadership**:
 
-  - Led diverse teams (up to 75 members) in high-pressure environments, processing up to 100,000 packages daily. Managed all aspects of inbound workflow, loading/unloading systems, and yard management.
+  - Led diverse teams (up to 75 members) in high-pressure environments, processing up to 135,000 packages daily. Managed all aspects of inbound workflow, loading/unloading systems, and yard management.
   - Enhanced operational efficiency and productivity through strategic planning and resource allocation, resulting in significant improvements in processing rates and safety standards.
 
 - **Data-Driven Process Improvements**:
