@@ -177,7 +177,7 @@ if __name__ == "__main__":
     parser.add_argument(
         "file",
         help="markdown input file [resume.md]",
-        default="resume_version/resume_process.md",
+        default="resume_version/Ali_Lara_Resume_DS_Amazon.md",
         nargs="?",
     )
     parser.add_argument(

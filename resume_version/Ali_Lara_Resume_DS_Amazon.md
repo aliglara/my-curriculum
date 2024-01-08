@@ -1,6 +1,7 @@
 # Ali Lara
 
 **Contact Information:**
+
 - Email: alilarag@mail.com
 - Phone: (614) 440-6494
 - LinkedIn: [aliglara @ LinkedIn](https://www.linkedin.com/in/aliglara)
@@ -19,6 +20,7 @@ Data Scientist and Chemical Engineer with extensive experience in industrial pro
 
 ### Data Scientist / Managerial Roles, Amazon
 Austin, TX & Columbus, OH | Nov 2020 - Present
+
 - Developed Python-based data extraction tools, improving operational efficiency by 30%.
 - Designed and implemented a random forest model for package distribution optimization, leading to a 20% reduction in errors and a 25% increase in productivity.
 - Created Excel-based tracking tools, reducing process defects by 75% and managing over 120,000 packages daily.
@@ -27,11 +29,13 @@ Austin, TX & Columbus, OH | Nov 2020 - Present
 
 ### Chemical Engineer, MCL Control
 Venezuela | May 2012 - Sep 2019
+
 - Developed machine learning algorithms for predictive modeling in gas/oil processes.
 - Engineered neural network models to estimate process simulation parameters, enhancing performance.
 
 ### Lecturer, Universidad Central of Venezuela
 Mar 2005 - Nov 2020
+
 - Conducted research in chemical reaction engineering using machine learning for process evaluation.
 - Lectured on industrial process simulation, numerical methods, and statistical modeling.
 
