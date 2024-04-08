@@ -133,6 +133,7 @@ def write_pdf(html: str, prefix: str = "resume", chrome: str = "") -> None:
         "--log-level=2",
         "--in-process-gpu",
         "--disable-gpu",
+        "--no-pdf-header-footer",
     ]
 
     # Ideally we'd use tempfile.TemporaryDirectory here. We can't because

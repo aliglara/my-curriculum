@@ -5,19 +5,17 @@
 <!-- The unordered list immediately after the h1 will be formatted on a single
 line. It is intended to be used for contact details -->
 
-- <alilarag@mail.com>
-- (614) 440-6494
+- e-mail: <alilarag@mail.com>. Phone: (614) 440-6494. Austin, TX
 - [aliglara @ Linkedin](https://www.linkedin.com/in/aliglara)
-- Austin, TX
 
 ## Summary
 
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
-is intended to be used for a short summary. -->
+is intended to be used for a summary. -->
 Experienced Chemical Engineer specializing in process improvement and optimization. Proficient in applying statistical
 and mathematical modeling to enhance operational efficiency. Skilled in leading teams to achieve productivity gains and
-streamline workflows. Demonstrated ability in leveraging tools such as Matlab, Hysys, and Python for data-driven process
-enhancement. Bilingual in English and Spanish with a focus on continuous improvement and team collaboration.
+streamline workflows. Demonstrated ability to leverage Matlab, Hysys, and Python tools for data-driven process
+enhancement. Bilingual in English and Spanish, focusing on continuous improvement and team collaboration.
 
 ## Skills
 
@@ -33,8 +31,8 @@ hand -->
 
 ### <span>Amazon Logistics (Austin, TX)</span> <span>Nov 2020 - present</span>
 
-Roles: Logistics Analyst (April 2024 - Present), Associate Area Manager (Mar 2023 - Mar 2024), Yard Marshal (Dec 2021 -
-Mar 2023)
+Roles: Logistics Coordinator III (Apr 2024 - present), Associate Area Manager (Mar 2023 - Apr 2024), Yard Marshal (Nov
+2020 - Mar 2023)
 
 - **Rapid Career Advancement**: Demonstrated exceptional performance and leadership, progressing quickly through
   increasingly responsible roles within Amazon’s logistics operations.
@@ -103,3 +101,7 @@ Mar 2023)
 ### <span>Universidad Central of Venezuela, M.Sc. Chemical Engineering - 2008</span>
 
 ### <span>Universidad Central of Venezuela, B.Sc. Chemical Engineering - 1998</span>
+
+<!-- - GPA 4.0
+  - DB1101 - Basic SQL
+  - CS2011 - Java Introduction -->
