@@ -25,9 +25,20 @@ Accomplished Chemical Engineer with a robust background in operations management
 
 <!-- You have to wrap the "left" and "right" half of these headings in spans by
 hand -->
-### <span>Amazon Logistics (Austin, TX)</span> <span>Nov 2020 - present</span>
+### <span>Amazon Central Operations (Austin, TX)</span> <span>Mar 2024 - present</span>
 
-Roles: Associate Area Manager (Mar 2023 - Present), Yard Marshal (Dec 2021 - Mar 2023), FC Associate (Nov 2020 - Dec 2021)
+Logistics Coordinator
+
+  - **Labor Planning and Tool Development** Developed strategic labor planning models and partnered with product teams to create and manage tools for labor and scheduling resources across a network of over 200 warehouses in the USA and Canada. Improved resource allocation accuracy by 20%, enhancing operational efficiency.
+  - **Analytics and Optimization** Built advanced analytics and data pipelines, enabling optimization and predictive science. Achieved a 15% reduction in labor costs through data-driven insights.
+  - **Dispatch Analysis Tool** Implemented a Python/Flask tool for real-time dispatch analysis, capable of assessing warehouse operations in less than 2 minutes and overall situational analysis in under 5 minutes. The tool, based on logistics, safety, and financial metrics, ensured timely parcel delivery and effective route management, resulting in a 25% decrease in delayed deliveries.
+  - **Customer Service** Provided daily customer service to over 200 operations managers in the USA and Canada, ensuring operations were performed timely, safely, and in accordance with Amazon standards. Maintained a 95% satisfaction rate among operations managers.
+  - **Reporting and Decision Support** Designed and implemented comprehensive reporting solutions that enhanced stakeholder decision-making. Reduced labor order turnaround times by 30% and efficiently addressed labor scheduling escalations, contributing to a 10% increase in overall productivity.
+
+
+### <span>Amazon Logistics (Austin, TX)</span> <span>Nov 2020 - Mar 2024</span>
+
+Roles: Associate Area Manager (Mar 2023 - Mar 2024), Yard Marshal (Dec 2021 - Mar 2023), FC Associate (Nov 2020 - Dec 2021)
 
 - **Rapid Career Advancement**: Demonstrated exceptional performance and leadership, progressing quickly through increasingly responsible roles within Amazon’s logistics operations.
 
