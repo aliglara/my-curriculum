@@ -4,4 +4,8 @@
 /dist
 /node_modules
 npm-debug.log
-instructions.md 
+instructions.md
+/output/
+
+/.quarto/
+**/*.quarto_ipynb

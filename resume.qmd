@@ -1,0 +1,21 @@
+---
+format:
+  pdf:
+    pdf-engine: xelatex
+    documentclass: article
+    geometry:
+      - top=0.5in
+      - bottom=0.5in
+      - left=0.8in
+      - right=0.8in
+    fontsize: 10pt
+    mainfont: Times New Roman
+    latex-auto-install: false
+    include-in-header: resume-preamble.tex
+  docx:
+    reference-doc: resume-reference.docx
+filters:
+  - resume.lua
+---
+
+{{< include resume.md >}}

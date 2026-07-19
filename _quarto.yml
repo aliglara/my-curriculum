@@ -1,0 +1,6 @@
+project:
+  type: default
+  render:
+    - resume.qmd
+  output-dir: output
+  post-render: rename-output.ts
